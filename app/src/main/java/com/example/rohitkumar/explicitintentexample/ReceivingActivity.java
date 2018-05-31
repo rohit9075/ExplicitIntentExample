@@ -35,7 +35,7 @@ public class ReceivingActivity extends AppCompatActivity {
     }
 
     private void gettingReference() {
-        
+
         mTextViewName = findViewById(R.id.intentName);
         mTextViewEmail = findViewById(R.id.intentEmail);
 
