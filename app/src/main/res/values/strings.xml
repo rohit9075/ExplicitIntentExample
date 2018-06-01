@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">ExplicitIntentExample</string>
+    <string name="text_send_by_intent">Send By Intent</string>
+    <string name="text_send_by_bundle">Send By Bundle</string>
+    <string name="text_using_intent">Using Intent</string>
+    <string name="text_name">Name</string>
+    <string name="text_email">Email</string>
+    <string name="text_using_bundle">Using Bundle</string>
 </resources>
